@@ -1,0 +1,42 @@
+DEIXE OS CRÉDITOS CASO FOR POSTAR
+
+
+
+COMANDOS:
+
+
+
+
+1- pkg install git
+
+2- git clone https://github.com/ianmsfvenom/BotMenu
+
+3- cd BotMenu
+
+4- sh menu.sh
+
+
+
+
+
+
+
+
+FIMM, ESPERO QUE GOSTE!!❤️
+
+
+
+
+
+
+
+
+QUER ADICIONAR SEU BOT?
+
+
+CHAME NO WHATSAPP:
+
+
+🥃BRIZ4LOK4: +55 71 8764-5787
+
+🥃NABUTO: +1 (925) 594-8027

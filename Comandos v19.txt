@@ -1,0 +1,8 @@
+
+git clone https://github.com/bruxinhok/bruxinhov19
+
+cd bruxinhov19
+
+bash install.sh
+
+node index.js

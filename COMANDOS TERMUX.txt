@@ -1,0 +1,56 @@
+
+𝙋𝙊𝙍 𝙁𝘼𝙑𝙊𝙍 𝙉𝘼̃𝙊 𝙍𝙀𝙈𝙊𝙑𝘼 𝙊𝙎 𝘾𝙍𝙀́𝘿𝙄𝙏𝙊𝙎
+
+𝘿𝙊𝙉𝙊: 𝙉𝘼𝘽𝙐𝙏𝙊 𝙇𝙎
+
+𝘾𝘼𝙉𝘼𝙇 𝙉𝙊 𝙔𝙊𝙐𝙏𝙐𝘽𝙀: https://youtu.be/dNlMqYQ-79k
+
+(PRIMEIRO DE TUDO VC TEM QUE TER 2 CELULARES)
+
+FAÇA OS COMANDOS UM POR UM E ESPERE ELES TERMINARAM NO TERMUX PARA NÃO DA ERRO
+
+
+COMANDOS:
+
+
+pkg update && pkg upgrade
+
+pkg install git
+
+pkg install wget
+
+git clone https://github.com/glub1/w
+
+ls
+
+cd w
+
+ls
+
+pkg install unzip
+
+pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install tesseract
+
+unzip w.zip
+
+cd w
+
+ls
+
+bash install.sh
+
+npm start
+
+ 🔰[CLOQUE ISSO EM UMA NOVA SEÇÃO:]
+
+ pkg install pm2
+
+ npm i -g pm2
+ 
+ pm2 start index.js
+
+ pm2 monit
